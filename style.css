@@ -1,0 +1,109 @@
+body{
+	top:0px;
+	right:0px;
+	left:0px;
+	bottom:0px;
+	margin:auto;
+}
+#header
+{
+  
+  height:20%;
+  width:100%;
+  text-align:center;
+  background:#ca2934;
+  float:left;
+    color:white;
+}
+#nav
+{
+ margin-top:4%;
+}
+#nav ul li
+{ 
+  list-style-type:none;
+  display:inline;
+  
+}
+#header h1
+{
+  font-size:40px;
+  float:left;
+  margin-left:5%;
+}
+#nav ul a
+{
+  text-decoration:none;
+  font-size:20px;
+  padding:10 15 10 15;
+  background-color:gray;
+  color:white;
+  border-radius:15px;  
+}
+#nav ul a:hover
+{
+ color: #278acd;
+  padding:2%;
+}
+#logo img
+{
+ height:100%;
+ width:7%;
+ float:left;
+ border-radius:30px;
+ margin-left:1%;
+ 
+}
+#home
+{
+  border:1px solid black;
+    background-color: darkgray;
+  float:left;
+  margin-top:0px;
+}
+
+
+#m
+{
+ font-size:20px;
+ width:100%;
+ height:20%;
+ float:left;
+ margin:3%;
+    display: inline-block;
+    margin-left:15%;
+
+}
+#m input
+{
+
+ height:40%;
+ width:20%;
+ text-align:-webkit-left;
+ color: rgba(3, 3, 90, 1);
+ margin:5%;
+    float:left;
+}	
+
+#cars img{
+    width: 35%;
+    height:60%;
+    float:left;
+    margin-left: 10%;
+    padding: 2%;
+
+}
+#cars img:hover{
+    background-color: #278acd;
+}
+
+#footer
+{
+ width:100%;
+ background:#ca2934;
+ text-align:center;
+ font-size:100%;
+ float:left;
+ height:10%;
+    color:white;
+}
